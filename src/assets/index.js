@@ -25,6 +25,10 @@ import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
+import ownsport from "./company/ownsport.png";
+import openclassrooms from "./company/openclassrooms.png";
+import cslb from "./company/cslb.jpg";
+import youtube from "./company/youtube.webp";
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
@@ -56,6 +60,10 @@ export {
   shopify,
   starbucks,
   tesla,
+  ownsport,
+  openclassrooms,
+  cslb,
+  youtube,
   carrent,
   jobit,
   tripguide,
