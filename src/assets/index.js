@@ -21,18 +21,16 @@ import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
 
-import meta from "./company/meta.png";
-import shopify from "./company/shopify.png";
-import starbucks from "./company/starbucks.png";
-import tesla from "./company/tesla.png";
 import ownsport from "./company/ownsport.png";
 import openclassrooms from "./company/openclassrooms.png";
 import cslb from "./company/cslb.jpg";
 import youtube from "./company/youtube.webp";
 
-import carrent from "./carrent.png";
-import jobit from "./jobit.png";
-import tripguide from "./tripguide.png";
+import projet2 from "./Projet 2.png";
+import projet3 from "./Projet 3.png";
+import projet5 from "./Projet 5.png";
+import projet6 from "./Projet 6.png";
+import projet7 from "./Projet 7.png";
 
 export {
   logo,
@@ -56,15 +54,13 @@ export {
   tailwind,
   typescript,
   threejs,
-  meta,
-  shopify,
-  starbucks,
-  tesla,
   ownsport,
   openclassrooms,
   cslb,
   youtube,
-  carrent,
-  jobit,
-  tripguide,
+  projet2,
+  projet3,
+  projet5,
+  projet6,
+  projet7,
 };

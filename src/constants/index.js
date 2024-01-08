@@ -15,17 +15,15 @@ import {
     git,
     figma,
     docker,
-    meta,
-    starbucks,
-    tesla,
-    shopify,
     ownsport,
     openclassrooms,
     cslb,
     youtube,
-    carrent,
-    jobit,
-    tripguide,
+    projet2,
+    projet3,
+    projet5,
+    projet6,
+    projet7,
     threejs,
   } from "../assets";
   
@@ -202,58 +200,33 @@ import {
   
   const projects = [
     {
-      name: "Car Rent",
+      name: "Booki",
       description:
-        "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+        "A travel agency home page using HTML and CSS.",
       tags: [
         {
-          name: "react",
+          name: "html",
           color: "blue-text-gradient",
         },
         {
-          name: "mongodb",
+          name: "css",
           color: "green-text-gradient",
         },
-        {
-          name: "tailwind",
-          color: "pink-text-gradient",
-        },
       ],
-      image: carrent,
-      source_code_link: "https://github.com/",
+      image: projet2,
+      source_code_link: "https://github.com/Lucadol/Projet-2",
     },
     {
-      name: "Job IT",
+      name: "Sophie Bluel - Portfolio",
       description:
-        "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+        "A dynamic web page with JavaScript for a photographer's portfolio.",
       tags: [
         {
-          name: "react",
+          name: "javascript",
           color: "blue-text-gradient",
         },
         {
-          name: "restapi",
-          color: "green-text-gradient",
-        },
-        {
-          name: "scss",
-          color: "pink-text-gradient",
-        },
-      ],
-      image: jobit,
-      source_code_link: "https://github.com/",
-    },
-    {
-      name: "Trip Guide",
-      description:
-        "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
-      tags: [
-        {
-          name: "nextjs",
-          color: "blue-text-gradient",
-        },
-        {
-          name: "supabase",
+          name: "html",
           color: "green-text-gradient",
         },
         {
@@ -261,8 +234,63 @@ import {
           color: "pink-text-gradient",
         },
       ],
-      image: tripguide,
-      source_code_link: "https://github.com/",
+      image: projet3,
+      source_code_link: "https://github.com/Lucadol/Projet-3",
+    },
+    {
+      name: "Nina Carducci",
+      description:
+        "Debug and optimize a photographer's website.",
+      tags: [
+        {
+          name: "javascript",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "html",
+          color: "green-text-gradient",
+        },
+        {
+          name: "css",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: projet5,
+      source_code_link: "https://github.com/Lucadol/Projet-5",
+    },
+    {
+      name: "Kasa",
+      description:
+        "Real estate rental web application with React.",
+      tags: [
+        {
+          name: "react",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "scss",
+          color: "green-text-gradient",
+        },
+      ],
+      image: projet6,
+      source_code_link: "https://github.com/Lucadol/Projet-6",
+    },
+    {
+      name: "Mon Vieux Grimoire",
+      description:
+        "Develop the back-end of a book rating site.",
+      tags: [
+        {
+          name: "express",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "mongodb",
+          color: "green-text-gradient",
+        },
+      ],
+      image: projet7,
+      source_code_link: "https://github.com/luca-dol/Projet-7-OC",
     },
   ];
   
