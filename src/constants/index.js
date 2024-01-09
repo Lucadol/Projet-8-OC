@@ -219,7 +219,7 @@ import {
     {
       name: "Sophie Bluel - Portfolio",
       description:
-        "A dynamic web page with JavaScript for a photographer's portfolio.",
+        "A dynamic web page with JavaScript for an interior designer's portfolio.",
       tags: [
         {
           name: "javascript",
